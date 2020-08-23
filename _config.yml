@@ -47,6 +47,5 @@ exclude:
   - vendor
 
 # Theme
-theme: "ed."
-
+remote_theme: minicomp/ed
 
