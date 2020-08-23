@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Ed.</title>
- <link href="http://iamscotttaylor.github.io/iamscotttaylor/atom.xml" rel="self"/>
- <link href="http://iamscotttaylor.github.io/iamscotttaylor/"/>
- <updated>2020-08-23T10:53:46+01:00</updated>
- <id>http://iamscotttaylor.github.io/iamscotttaylor</id>
+ <link href="http://iamscotttaylor.github.io//atom.xml" rel="self"/>
+ <link href="http://iamscotttaylor.github.io//"/>
+ <updated>2020-08-23T10:54:36+01:00</updated>
+ <id>http://iamscotttaylor.github.io/</id>
  <author>
    <name>Alex Gil</name>
    <email>colibri.alex@gmail.com</email>
