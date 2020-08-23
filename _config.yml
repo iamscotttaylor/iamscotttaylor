@@ -47,7 +47,7 @@ exclude:
   - vendor
 
 # Theme
-theme: "Ed."
+theme: "ed."
 
 
 
